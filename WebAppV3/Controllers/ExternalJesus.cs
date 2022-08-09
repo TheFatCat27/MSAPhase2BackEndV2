@@ -17,9 +17,9 @@ namespace WebAppV3.Controllers
             _client = clientFactory.CreateClient("bible");
         }
         /// <summary>
-        /// Gets the raw JSON for the hot feed in reddit
+        /// Gets the raw JSON for the verse specified
         /// </summary>
-        /// <returns>A JSON object representing the hot feed in reddit</returns>
+        /// <returns>A JSON object representing Bible verse</returns>
         [HttpGet]
         [Route("JesusMyHabibi")]
         [ProducesResponseType(200)]

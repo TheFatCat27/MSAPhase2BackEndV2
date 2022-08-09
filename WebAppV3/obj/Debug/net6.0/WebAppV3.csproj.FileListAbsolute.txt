@@ -288,3 +288,6 @@ C:\Users\GGPC\RiderProjects\WebAppV3\WebAppV3\obj\Debug\net6.0\refint\WebAppV3.d
 C:\Users\GGPC\RiderProjects\WebAppV3\WebAppV3\obj\Debug\net6.0\WebAppV3.pdb
 C:\Users\GGPC\RiderProjects\WebAppV3\WebAppV3\obj\Debug\net6.0\WebAppV3.genruntimeconfig.cache
 C:\Users\GGPC\RiderProjects\WebAppV3\WebAppV3\obj\Debug\net6.0\ref\WebAppV3.dll
+C:\Users\GGPC\RiderProjects\WebAppV3\WebAppV3\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\GGPC\RiderProjects\WebAppV3\WebAppV3\bin\Debug\net6.0\FakeItEasy.dll
+C:\Users\GGPC\RiderProjects\WebAppV3\WebAppV3\bin\Debug\net6.0\NSubstitute.dll
