@@ -10,6 +10,7 @@
         "dependencies": {
           "FakeItEasy": "7.3.1",
           "Microsoft.NET.Test.Sdk": "17.1.0",
+          "NSubstitute": "4.4.0",
           "NUnit": "3.13.3",
           "NUnit.Analyzers": "3.3.0",
           "NUnit3TestAdapter": "4.2.1",

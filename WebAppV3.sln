@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemonstrationTestV2", "DemonstrationTestV2\DemonstrationTestV2.csproj", "{F3C4DAFD-D847-4F1B-9257-F69B24DC3551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleItemTest.NSubstitue", "BibleItemTest.NSubstitue\BibleItemTest.NSubstitue.csproj", "{CF5BB352-3431-4642-B517-1D3927BA3C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleItemApi.NSubstitute", "BibleItemApi.NSubstitute\BibleItemApi.NSubstitute.csproj", "{018A2861-0A3E-4238-8FD0-D693B4C4A4D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{F3C4DAFD-D847-4F1B-9257-F69B24DC3551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3C4DAFD-D847-4F1B-9257-F69B24DC3551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3C4DAFD-D847-4F1B-9257-F69B24DC3551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5BB352-3431-4642-B517-1D3927BA3C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5BB352-3431-4642-B517-1D3927BA3C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5BB352-3431-4642-B517-1D3927BA3C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5BB352-3431-4642-B517-1D3927BA3C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018A2861-0A3E-4238-8FD0-D693B4C4A4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018A2861-0A3E-4238-8FD0-D693B4C4A4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018A2861-0A3E-4238-8FD0-D693B4C4A4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018A2861-0A3E-4238-8FD0-D693B4C4A4D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
